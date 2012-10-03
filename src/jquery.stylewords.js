@@ -1,10 +1,6 @@
-/*
- * jquery.stylewords
- * https://github.com/rcbpro/jquery.stylewords
- *
- * Copyright (c) 2012 Ruchira Chamara
- * Licensed under the MIT, GPL licenses.
- */
+/*! jQuery Stylewords - v0.1.0 - 2012-07-02
+* https://github.com/admin/jquery.stylewords
+* Copyright (c) 2012 Ruchira Chamara; Licensed MIT, GPL */
 
 (function($) {
 
